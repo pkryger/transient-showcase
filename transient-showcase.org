@@ -386,6 +386,8 @@ The ~transient-information~ class can be used to show states that are purely inf
      "" ; empty line
      ("wg" "wave greenishly" tsc-suffix-wave)])
 
+  ;; (tsc-information)
+
 #+end_src
 ** Layouts
 The default behavior treats groups a little differently depending on how they are nested.  For most simple groupings, this is sufficient control.
